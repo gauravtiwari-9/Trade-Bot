@@ -1,4 +1,4 @@
-# Stock Trading Bot using Machine Learning
+# Trade Bot
 
 This project is a simple rule-based and machine learning-driven **stock trading simulator**. It fetches historical stock data, performs technical analysis, trains a classifier to predict buy/sell signals, and then simulates how a trading strategy would perform based on the model's predictions.
 
